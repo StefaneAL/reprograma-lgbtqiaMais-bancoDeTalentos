@@ -16,27 +16,6 @@
 ```
 * No `database.js` fiz a `require`do `mongoose` e o `process` do `.env`
  
-* criei cada um dos `Schemas`
-	* EMPRESA
-	```javascript
-    # Projeto final {reprograma} `ON12 Back-end`
- 
-* Comecei criando uma nova connection `projetoFinal`
-* Criei um DB `colorsDB`
-* Criei a arquitetura e instalei todas as dependências 
-```json
-  "dependencies": {
-    "bcrypt": "^5.0.1",
-    "dotenv": "^10.0.0",
-    "dotenv-safe": "^8.2.0",
-    "express": "^4.17.1",
-    "jsonwebtoken": "^8.5.1",
-    "mongoose": "^5.13.7",
-    "nodemon": "^2.0.12"
-  }
-```
-* No `database.js` fiz a `require`do `mongoose` e o `process` do `.env`
- 
 * ## Criei cada um dos `Schemas`
 * EMPRESA
 ```javascript
